@@ -1,3 +1,11 @@
+Bitancoin is a fork of Litecoin
+=====================================
+
+Please contribute to the development of the core protocol at https://litecoin.org
+
+Litecoin material follows.
+
+
 Litecoin Core integration/staging tree
 =====================================
 
